@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **baldaniyaashok153@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashok-baldaniya-4125a6132](https://www.linkedin.com/in/ashok-baldaniya-4125a6132)
+- 📄 Know about my experiences [https://www.linkedin.com/ashok-baldaniya-4125a6132](https://www.linkedin.com/ashok-baldaniya-4125a6132)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
