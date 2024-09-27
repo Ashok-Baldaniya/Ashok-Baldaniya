@@ -24,6 +24,5 @@
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="20" alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></code>
 <code><img height="20" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
