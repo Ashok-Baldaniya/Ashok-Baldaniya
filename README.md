@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashok Baldaniya</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working as **Backend NodeJs develope**
+- 🔭 I’m currently working as **Backend NodeJs developer**
 
 - 🌱 I’m currently learning **ReactJs, AWS**
 
-- 💬 Ask me about **JavsScript,NodeJs,MongoDB,AWS**
+- 💬 Ask me about **JavsScript,NodeJs,MongoDB,AWS,GraphQL**
 
 - 📫 How to reach me **baldaniyaashok153@gmail.com**
 
