@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavsScript,NodeJs,MongoDB,AWS,GraphQL**
 
-- 📫 How to reach me **baldaniyaashok153@gmail.com**
+- 📫 How to reach me **https://ashok-baldaniya.vercel.app/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashok-baldaniya-4125a6132/](https://www.linkedin.com/in/ashok-baldaniya-4125a6132/)
 
